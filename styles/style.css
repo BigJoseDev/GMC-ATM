@@ -1,0 +1,84 @@
+.myprofile-img {
+    height: 200px;
+    width: 200px;
+    border-radius: 50px;
+
+}
+
+h1 {
+    border-radius: 20px;
+    padding: 10px;
+    background-color: rgb(127, 77, 77);
+    text-align: center;
+}
+
+.success {
+    color: black;
+    font-size: 24px;
+    padding: 10px;
+    border: 1px solid green;
+    margin: 12px;
+    /* background-color:rgb(151, 68, 68); */
+    text-align: center;
+}
+
+#welcomeBtn {
+    border-radius: 50px;
+    background-color: rgb(199, 159, 159);
+    padding: 10px;
+    align-items: center;
+}
+
+
+.idCard {
+    width: 300px;
+    height: 600px;
+    border: 1px solid #000;
+    border-radius: 10px;
+    padding: 14px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color:rgb(65, 32, 32);
+    
+    
+}
+
+.logo {
+    width: 100px;
+    height: 100px;
+    border-radius: 13px;
+    object-fit: cover;
+    /* margin-bottom: px; */
+    margin-top: 10px;
+
+}
+
+.employeeImg {
+ width: 200px;
+ height: 200px;
+ border-radius: 10px;
+
+}
+
+ .companyName {
+    font-size: 40px;
+    font-weight: 800;
+    color: rgb(229,9,19);
+    
+
+
+}
+
+.idCard p {
+    font-size: 17px;
+    font-weight: 600;
+    color: rgb(144, 54, 54);
+    
+
+}
+
+.expiryDate {
+    color: rgb(133, 36, 36);
+}
+
